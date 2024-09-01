@@ -1,9 +1,9 @@
 ## Fala aí
 
-<div style="display: inline">
+<div style="display: flex, flex-direction: row">
   <a href="https://github.com/Matheus-Mbs">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mbs&show_icons=true&theme=midnight-purple">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mbs&layout=compact&langs_count=6&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mbs&show_icons=true&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mbs&layout=compact&langs_count=6&theme=midnight-purple">
 </div>
 
 <!--
