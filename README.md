@@ -1,4 +1,10 @@
-## Hi there 👋
+## Fala aí
+
+<div>
+  <a href="https://github.com/Matheus-Mbs">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mbs&show_icons=true&theme=midnight-purple">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mbs&layout=compact&langs_count=6&theme=midnight-purple">
+</div>
 
 <!--
 **Matheus-Mbs/Matheus-Mbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
