@@ -11,9 +11,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/matheus_mbs_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://discord.com/channels/@me/530072815731212298" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
