@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/matheusmbs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&color=6100ff&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" >
   </a>
 </div>
 
