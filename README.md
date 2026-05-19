@@ -3,55 +3,96 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Mbs&theme=midnight-purple&show_icons=true" height="150" alt="stats graph"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Matheus-Mbs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Mbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+
+<img width="39%" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Mbs&theme=midnight-purple&hide_border=true"/>
+
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-Mbs&theme=midnight_purple"/>
+
 </div>
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://discord.com/channels/@me/530072815731212298" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:matheusmbspessoal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/matheusmbs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=6100ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" >
-  </a>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Mbs&theme=midnight_purple"/>
+
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="arch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" height="30" alt="ink logo"  />
-</div>
+<br>
 
 ###
 
 <div align="center">
-  <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZncwYTIxZnIzY3V2MnhnNXpmbHNmemMyczZ4bjd3a2kyNG14N2JybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fs6OGJ4Eb3ajC/giphy.gif"  />
+
+## 💻 Currently Working With
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo"/>
+<img width="16"/>
+
+<img src="https://bun.sh/logo.svg" height="38" alt="bun logo"/>
+<img width="16"/>
+
+<img src="https://elysiajs.com/assets/elysia.svg" height="38" alt="elysia logo"/>
+<img width="16"/>
+
+<img src="https://cdn.simpleicons.org/prisma/ffffff" height="38" alt="prisma logo"/>
+<img width="16"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"/>
+
+<br><br>
+
+Typescript • Bun • Elysia • Prisma ORM • React
+
 </div>
 
-###
+<br>
+
+## 🧠 Knowledge
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="c logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="34" alt="sqlite logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="34" alt="arch linux logo"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="34" alt="inkscape logo"/>
+
+<br><br>
+
+HTML • CSS • JavaScript • Python • C • Java  
+SQLite • MySQL • Git • Arch Linux • Inkscape
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZncwYTIxZnIzY3V2MnhnNXpmbHNmemMyczZ4bjd3a2kyNG14N2JybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fs6OGJ4Eb3ajC/giphy.gif"/>
+</div>
